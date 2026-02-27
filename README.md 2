@@ -1,4 +1,4 @@
-distribution: ´temurin`
+
 -name: Validate Gradle wrapper
 uses: gradle/wrapper-validation-action@e6e38bacfdfla337459f332974bb2327a31aaf4b
 uses : gradle/wrapper-validation-action@094d8354f0cc239ee315e3331528fbc2008041
